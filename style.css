@@ -1,1 +1,19 @@
 
+body {
+  font-family: Arial;
+  max-width: 500px;
+  margin: 40px auto;
+}
+
+input {
+  padding: 8px;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+
+li {
+  margin-top: 10px;
+}
